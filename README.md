@@ -67,5 +67,5 @@ The original dataset was used for educational and portfolio purposes. Data clean
 7. Explore the results through an interactive dashboard.
 
 ---
-
+## Live Link : https://customer-intelligence-ghrpc7rmiuwfr7refmgpsn.streamlit.app/
 *Built as a machine learning and data visualisation portfolio project.*
